@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/chuck-norris.github.io/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/chuck-norris.github.io/static/js/main.44d1db6e.chunk.js",
+    "main.js.map": "/chuck-norris.github.io/static/js/main.44d1db6e.chunk.js.map",
+    "runtime-main.js": "/chuck-norris.github.io/static/js/runtime-main.8b81af70.js",
+    "runtime-main.js.map": "/chuck-norris.github.io/static/js/runtime-main.8b81af70.js.map",
+    "static/css/2.eafbf0d3.chunk.css": "/chuck-norris.github.io/static/css/2.eafbf0d3.chunk.css",
+    "static/js/2.83ddb8ac.chunk.js": "/chuck-norris.github.io/static/js/2.83ddb8ac.chunk.js",
+    "static/js/2.83ddb8ac.chunk.js.map": "/chuck-norris.github.io/static/js/2.83ddb8ac.chunk.js.map",
+    "static/js/3.0a779f3b.chunk.js": "/chuck-norris.github.io/static/js/3.0a779f3b.chunk.js",
+    "static/js/3.0a779f3b.chunk.js.map": "/chuck-norris.github.io/static/js/3.0a779f3b.chunk.js.map",
+    "index.html": "/chuck-norris.github.io/index.html",
+    "static/css/2.eafbf0d3.chunk.css.map": "/chuck-norris.github.io/static/css/2.eafbf0d3.chunk.css.map",
+    "static/css/main.ab7136cd.chunk.css.map": "/chuck-norris.github.io/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.83ddb8ac.chunk.js.LICENSE.txt": "/chuck-norris.github.io/static/js/2.83ddb8ac.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/chuck-norris.github.io/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b81af70.js",
+    "static/css/2.eafbf0d3.chunk.css",
+    "static/js/2.83ddb8ac.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.44d1db6e.chunk.js"
+  ]
+}
